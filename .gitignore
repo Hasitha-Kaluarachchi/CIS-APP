@@ -1,0 +1,22 @@
+# Flutter generated
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# IDE
+**/.idea/
+**/.vscode/
+
+# Android generated
+**/.gradle/
+**/android/.gradle/
+
+# Python backend generated
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.pyc
+
+# Environment secrets
+**/.env
